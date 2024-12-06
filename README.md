@@ -13,7 +13,7 @@
 
 `Summary`: As a student with a degree in computer science, I am passionate about using technology to solve complex problems and make a positive impact on the world. With experience in software development and data analysis, I have developed a strong foundation in programming languages such as Java, Python, and C++.
 
-I am committed to delivering high-quality work and exceeding expectations for my future career. ALso, I am eager to expand my connections with other technology professionals and explore new opportunities for growth and development of my soft skills.
+I am committed to delivering high-quality work and exceeding expectations for my future career. Also, I am eager to expand my connections with other technology professionals and explore new opportunities for the growth and development of my soft skills.
  
 
 # 💻 Tech Skills
