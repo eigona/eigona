@@ -6,7 +6,7 @@
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=eigona&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-# This is a bit of me
+# This is a bit of me...
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 **`Bioinformatics Student (Universiti Teknologi Malaysia)`**
