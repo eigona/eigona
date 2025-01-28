@@ -13,6 +13,7 @@
 
 `Summary`: As a student with a degree in computer science, I am passionate about using technology to solve complex problems and make a positive impact on the world. With experience in software development and data analysis, I have developed a strong foundation in programming languages such as Java, Python, and C++.
 
+
 # 💻 Tech Skills
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
